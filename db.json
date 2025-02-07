@@ -1,0 +1,55 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Chicken Parmesan",
+      "price": 55,
+      "servingQuantity": 1,
+      "status": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "price": 55,
+      "servingQuantity": 1,
+      "status": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "price": 12.99,
+      "servingQuantity": 1,
+      "status": "Out of Stock"
+    }
+  ],
+
+  "revenue": [
+    {
+      "id": 1,
+      "value": 55000,
+      "dateRange": "1 Jan - 1 Feb"
+    }
+  ],
+
+  "overview" : [
+    {
+      "sales": [3200, 4000, 1900, 3500, 4800, 4000, 4500, 4200, 3800, 3200, 2800, 4500],
+      "revenue": [2000, 2100, 2500, 2200, 3000, 2800, 3200, 3000, 2900, 2800, 2200, 2500]
+    }
+  ],
+
+  "dailysales": [
+    {
+      "id": 1,
+      "value": 500,
+      "dateRange": "1 Jan - 1 Feb"
+    }
+  ],
+
+  "tables": [
+    {
+      "id": 1,
+      "value": 50
+    }
+  ]
+}
